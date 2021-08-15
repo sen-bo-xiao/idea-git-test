@@ -12,6 +12,6 @@ public class Main {
         System.out.println("main方法");
 
         System.out.println("master分支");
-
+        System.out.println("master分支2");
     }
 }
