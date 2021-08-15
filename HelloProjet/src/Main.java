@@ -6,10 +6,9 @@ public class Main {
     public void testHelloWrold() {
         System.out.println("HelloWorld!");
 
-        System.out.println(1233);
     }
 
-    public void test1(){
+    public static void main(String[] args) {
 
     }
 }
