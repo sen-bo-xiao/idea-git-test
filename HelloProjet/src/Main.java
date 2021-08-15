@@ -6,7 +6,7 @@ public class Main {
     public void testHelloWrold() {
         System.out.println("HelloWorld!");
 
-        System.out.println(12345678);
+        System.out.println(1233);
     }
 
     public void test1(){
